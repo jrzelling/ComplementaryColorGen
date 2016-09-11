@@ -8,6 +8,8 @@ See image for output
 
 ![Output](/Screen Shot 2016-09-11 at 9.31.00 AM.png?raw=true "Output")
 
+The first two disks are not related in any way to the second pair of disks.
+
 ![Output](/Screen Shot 2016-09-11 at 9.39.01 AM.png?raw=true "Output")
 
-The first two disks are not related in any way to the second pair of disks. 
+Shown together with their mean (the average of two complements is gray)
