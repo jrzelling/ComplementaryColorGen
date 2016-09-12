@@ -16,5 +16,6 @@ The first two disks are not related in any way to the second pair of disks.
 Shown together with their mean (the average of two complements is gray)
 
 ## HexToRGB.nb
-Given a Hex color value converts to RGB
-Hex is of format R<sub>1</sub>R<sub>2</sub>G<sub>1</sub>G<sub>2</sub>B<sub>1</sub>B<sub>2</sub>
+Given a Hex color value converts to RGB. Hex is of format: 
+
+`R<sub>1</sub>R<sub>2</sub>G<sub>1</sub>G<sub>2</sub>B<sub>1</sub>B<sub>2</sub>`
