@@ -1,6 +1,6 @@
 # ComplementaryColorGen
 
-Each time the function is run it generates two different unrelated sets of random complementary colors along with RGB values. Useful for finding color sets to work with although they are not guaranteed web safe. 
+Each time the function runs (manually Shift-Enter) it generates two different unrelated sets of random complementary colors along with RGB values. Useful for finding color sets to work with although they are not guaranteed web safe. 
 
 The function can be wrapped in a timing and repetitive functions to continuously run every few seconds to generate very many sets without having to manually run the function. 
 
