@@ -1,0 +1,167 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 9.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[      4450,        157]
+NotebookOptionsPosition[      4011,        136]
+NotebookOutlinePosition[      4368,        152]
+CellTagsIndexPosition[      4325,        149]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"r1", "=", "d"}], ";", 
+  RowBox[{"r1", "=", "13"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"r2", "=", "9"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"g1", "=", "d"}], ";", 
+  RowBox[{"g1", "=", "13"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"g2", "=", "5"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"b1", "=", "c"}], ";", 
+  RowBox[{"b1", "=", "12"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"b2", "=", "4"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"N", "[", 
+    RowBox[{
+     RowBox[{"(", 
+      RowBox[{
+       FractionBox["r1", "15"], "*", "15"}], ")"}], "+", 
+     RowBox[{"(", 
+      RowBox[{
+       FractionBox["r2", "15"], "*", 
+       RowBox[{"15", "^", "2"}]}], ")"}]}], "]"}], ",", 
+   RowBox[{"N", "[", 
+    RowBox[{
+     RowBox[{"(", 
+      RowBox[{
+       FractionBox["g1", "15"], "*", "15"}], ")"}], "+", 
+     RowBox[{"(", 
+      RowBox[{
+       FractionBox["g2", "15"], "*", 
+       RowBox[{"15", "^", "2"}]}], ")"}]}], "]"}], ",", 
+   RowBox[{"N", "[", 
+    RowBox[{
+     RowBox[{"(", 
+      RowBox[{
+       FractionBox["b1", "15"], "*", "15"}], ")"}], "+", 
+     RowBox[{"(", 
+      RowBox[{
+       FractionBox["b2", "15"], "*", 
+       RowBox[{"15", "^", "2"}]}], ")"}]}], "]"}]}], "}"}]}], "Input",
+ CellChangeTimes->{{3.657157765611944*^9, 3.657157919126224*^9}, {
+  3.6571579913453417`*^9, 3.657158091900711*^9}}],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"148.`", ",", "88.`", ",", "72.`"}], "}"}]], "Output",
+ CellChangeTimes->{
+  3.657157776937192*^9, 3.657157875476532*^9, {3.6571579112031593`*^9, 
+   3.657157919649169*^9}, 3.657158011544153*^9, {3.6571580863076487`*^9, 
+   3.657158092651919*^9}}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"r1", "=", "d"}], ";", 
+  RowBox[{"r1", "=", "13"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"r2", "=", "8"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"g1", "=", "d"}], ";", 
+  RowBox[{"g1", "=", "13"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"g2", "=", "3"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"b1", "=", "b"}], ";", 
+  RowBox[{"b1", "=", "11"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"b2", "=", "f"}], ";", 
+  RowBox[{"b2", "=", "15"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"N", "[", 
+    RowBox[{
+     RowBox[{"(", 
+      RowBox[{
+       FractionBox["r1", "15"], "*", "15"}], ")"}], "+", 
+     RowBox[{"(", 
+      RowBox[{
+       FractionBox["r2", "15"], "*", 
+       RowBox[{"15", "^", "2"}]}], ")"}]}], "]"}], ",", 
+   RowBox[{"N", "[", 
+    RowBox[{
+     RowBox[{"(", 
+      RowBox[{
+       FractionBox["g1", "15"], "*", "15"}], ")"}], "+", 
+     RowBox[{"(", 
+      RowBox[{
+       FractionBox["g2", "15"], "*", 
+       RowBox[{"15", "^", "2"}]}], ")"}]}], "]"}], ",", 
+   RowBox[{"N", "[", 
+    RowBox[{
+     RowBox[{"(", 
+      RowBox[{
+       FractionBox["b1", "15"], "*", "15"}], ")"}], "+", 
+     RowBox[{"(", 
+      RowBox[{
+       FractionBox["b2", "15"], "*", 
+       RowBox[{"15", "^", "2"}]}], ")"}]}], "]"}]}], "}"}]}], "Input",
+ CellChangeTimes->{{3.657157765611944*^9, 3.657157919126224*^9}, {
+  3.6571579913453417`*^9, 3.657158152625403*^9}}],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"133.`", ",", "58.`", ",", "236.`"}], "}"}]], "Output",
+ CellChangeTimes->{3.657158153644144*^9}]
+}, Open  ]]
+},
+WindowSize->{798, 1006},
+WindowMargins->{{Automatic, 12}, {Automatic, 0}},
+FrontEndVersion->"9.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (November 20, \
+2012)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[579, 22, 1458, 46, 152, "Input"],
+Cell[2040, 70, 286, 6, 28, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2363, 81, 1493, 47, 152, "Input"],
+Cell[3859, 130, 136, 3, 62, "Output"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
