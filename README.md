@@ -18,6 +18,6 @@ Shown together with their mean (the average of two complements is gray)
 ## HexToRGB.nb
 Given a Hex color value, this function converts to RGB. Hex is of format R<sub>1</sub>R<sub>2</sub>G<sub>1</sub>G<sub>2</sub>B<sub>1</sub>B<sub>2</sub>. 
 
-a<sub>i</sub> can take values between 0 and f; a = 10, b = 11, c = 12, ... , f = 16. 
+a<sub>i</sub> can take values between 0 and f; a = 10, b = 11, c = 12, ... , f = 15. 
 
 
